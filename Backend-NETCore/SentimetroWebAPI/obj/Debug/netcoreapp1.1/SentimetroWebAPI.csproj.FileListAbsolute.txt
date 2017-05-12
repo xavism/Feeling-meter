@@ -1,0 +1,9 @@
+C:\Users\XavierSánchezMir\Documents\Tokiota\Projects\APISentimetroTokiota\SentimetroWebAPI\SentimetroWebAPI\bin\Debug\netcoreapp1.1\SentimetroWebAPI.deps.json
+C:\Users\XavierSánchezMir\Documents\Tokiota\Projects\APISentimetroTokiota\SentimetroWebAPI\SentimetroWebAPI\bin\Debug\netcoreapp1.1\SentimetroWebAPI.runtimeconfig.json
+C:\Users\XavierSánchezMir\Documents\Tokiota\Projects\APISentimetroTokiota\SentimetroWebAPI\SentimetroWebAPI\bin\Debug\netcoreapp1.1\SentimetroWebAPI.runtimeconfig.dev.json
+C:\Users\XavierSánchezMir\Documents\Tokiota\Projects\APISentimetroTokiota\SentimetroWebAPI\SentimetroWebAPI\bin\Debug\netcoreapp1.1\SentimetroWebAPI.dll
+C:\Users\XavierSánchezMir\Documents\Tokiota\Projects\APISentimetroTokiota\SentimetroWebAPI\SentimetroWebAPI\bin\Debug\netcoreapp1.1\SentimetroWebAPI.pdb
+C:\Users\XavierSánchezMir\Documents\Tokiota\Projects\APISentimetroTokiota\SentimetroWebAPI\SentimetroWebAPI\obj\Debug\netcoreapp1.1\SentimetroWebAPI.AssemblyInfo.cs
+C:\Users\XavierSánchezMir\Documents\Tokiota\Projects\APISentimetroTokiota\SentimetroWebAPI\SentimetroWebAPI\obj\Debug\netcoreapp1.1\SentimetroWebAPI.dll
+C:\Users\XavierSánchezMir\Documents\Tokiota\Projects\APISentimetroTokiota\SentimetroWebAPI\SentimetroWebAPI\obj\Debug\netcoreapp1.1\SentimetroWebAPI.pdb
+C:\Users\XavierSánchezMir\Documents\Tokiota\Projects\APISentimetroTokiota\SentimetroWebAPI\SentimetroWebAPI\obj\Debug\netcoreapp1.1\SentimetroWebAPI.csprojResolveAssemblyReference.cache
