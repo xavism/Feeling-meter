@@ -9,11 +9,23 @@
 
 ## Build Setup
 
+### Backend Setup
+
 > Database information is located in the appsettings.json (Backend)
 
-> Data to Change: serverName, username, password in the AzureDB connectionString
+> Data to Change: serverName, username, password in the AzureDB connectionString.
 
-> API Url is located in the routes.js file in the Frontend. The file is located in src/data
+```bash
+dotnet restore
+
+dotnet build
+
+dotnet run
+```
+
+### Frontend setup:
+
+> Change the APIUrl located in src/data/routesDev.js (in Dev environment). To change the environment, select a different import in the service 'JobService'.
 
 ``` bash
 # install dependencies
